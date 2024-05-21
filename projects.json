@@ -35,6 +35,7 @@
     {"title": "OpShin", "owner": "OpShin"},
     {"title": "Blockfrost", "owner": "blockfrost"},
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
-    {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]}
+    {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]},
+    {"title": "Vibrant", "owner": "nilscodes" , "names" : ["cardano-spo-scripts", "hazelnet", "reach-your-people"]}
   ]
 }
