@@ -1,5 +1,6 @@
 {
   "projects": [
+    {"title": "Djed Alliance", "owner": "DjedAlliance"},
     {"title": "Spectrum Finance", "owner": "spectrum-finance"},
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
     {"title": "Ogmios", "owner": "CardanoSolutions", "names": ["ogmios"]},
