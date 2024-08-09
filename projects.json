@@ -5,6 +5,7 @@
     {"title": "Ogmios", "owner": "CardanoSolutions", "names": ["ogmios"]},
     {"title": "Kupo", "owner": "CardanoSolutions", "names": ["kupo"]},
     {"title": "MeshJS", "owner": "MeshJs", "names": ["mesh"]},
+    {"title": "SIDAN Lab", "owner": "sidan-lab"},
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
     {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
