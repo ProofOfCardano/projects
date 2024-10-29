@@ -36,6 +36,10 @@
     {"title": "Blockfrost", "owner": "blockfrost"},
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
     {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]},
-    {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]}
+    {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]},
+    {"title": "Cardano Client Lib", "owner": "bloxbean", "names": ["cardano-client-lib"]},
+    {"title": "Yaci Store", "owner": "bloxbean", "names": ["yaci-store"]},
+    {"title": "Yaci", "owner": "bloxbean", "names": ["yaci"]},
+    {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]}
   ]
 }
