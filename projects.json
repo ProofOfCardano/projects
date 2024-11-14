@@ -36,6 +36,8 @@
     {"title": "Blockfrost", "owner": "blockfrost"},
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
     {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]},
-    {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]}
+    {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]},
+    {"title": "Grabbit", "owner": "ikigai-github", "names": ["grabbit-documentation", "grabbit-smart-contracts"]},
+    {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]}
   ]
 }
